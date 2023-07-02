@@ -1,0 +1,4 @@
+- 其他资源
+    - [机器学习面试200](https://mp.weixin.qq.com/s/gfKAvmRKIDMrVNiIYhBN2A) 
+    - [决策树相关面经](https://mp.weixin.qq.com/s/sJRKMXi3p72YhNKIuAPi5Q)
+    - [lightGBM](https://mp.weixin.qq.com/s/_UONHHDUeI2u-GGhiOuolA)

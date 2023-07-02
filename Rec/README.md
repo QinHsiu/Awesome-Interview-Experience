@@ -1,0 +1,13 @@
+- 其他资源
+    - [22年暑期算法实习面经](https://mp.weixin.qq.com/s/KiOyLMzcJyeuD60UhNFAWw)
+    - [23届推荐算法面经](https://mp.weixin.qq.com/s/1waPEskK6ngh-14ffizKbA)
+    - [校招算法基础](https://mp.weixin.qq.com/s/lNvu_0PIKyXhKTN_R1lh3g)
+    - [推荐系统技术综述](https://mp.weixin.qq.com/s/DugJBzc1tmvs8ujvA3WWjw)
+    - [推荐算法全链路总结](https://mp.weixin.qq.com/s/I0ZG6l9kpGceYHrxBm2iGQ)
+    - [推荐算法面试题](https://mp.weixin.qq.com/s/mBg3SbyIY9_dS9sLls0EAw)
+    - [推荐算法工程师成长路径](https://mp.weixin.qq.com/s/fvqJ-8wZeg2ORjLGlcq6xQ)
+    - [推荐算法学习之路](https://mp.weixin.qq.com/s/hYr4PDh9rgsBx18YcKX8eg)
+    - [Google推荐算法实践](https://mp.weixin.qq.com/s/8AjXF2jWHZgpNJA3yCEopg)
+    - [推荐系统大厂实践算法](https://mp.weixin.qq.com/s/LUozueTatcK_zPlTSghlxA)
+    - [阿里无偏召回](https://mp.weixin.qq.com/s/0Cbc3aAYTeFqLDutLBXJmA)
+    - [对比学习在快手排序中的应用](https://mp.weixin.qq.com/s/2GgIt38uO_qmLGskfB_lfQ)

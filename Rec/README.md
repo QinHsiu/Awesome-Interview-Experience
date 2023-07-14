@@ -1,5 +1,6 @@
 - 其他资源
     - [Embedding序列化](https://mp.weixin.qq.com/s/LgW75OmB-jNysuttyOVr6w)
+    - [LightGCN](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw)
     - [22年暑期算法实习面经](https://mp.weixin.qq.com/s/KiOyLMzcJyeuD60UhNFAWw)
     - [23届推荐算法面经](https://mp.weixin.qq.com/s/1waPEskK6ngh-14ffizKbA)
     - [校招算法基础](https://mp.weixin.qq.com/s/lNvu_0PIKyXhKTN_R1lh3g)

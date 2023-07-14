@@ -1,4 +1,6 @@
 - 代码实践
+  - [LSTM](https://mp.weixin.qq.com/s/xNej2HsvMJq8hRb6ujkSjw)
+  - [CNN](https://mp.weixin.qq.com/s/SzWluooh3pPOed4loEHRqA)
   - [Transformer](https://mp.weixin.qq.com/s/4Be3x1EBz6uWrJ76bGjZNg)
 - 其他资源
     - [21年CV面经](https://mp.weixin.qq.com/s/BYPufwGIpzw5pW3Ro0HvOw)

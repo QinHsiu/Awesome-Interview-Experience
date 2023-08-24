@@ -16,3 +16,6 @@
     - [推荐系统大厂实践算法](https://mp.weixin.qq.com/s/LUozueTatcK_zPlTSghlxA)
     - [阿里无偏召回](https://mp.weixin.qq.com/s/0Cbc3aAYTeFqLDutLBXJmA)
     - [对比学习在快手排序中的应用](https://mp.weixin.qq.com/s/2GgIt38uO_qmLGskfB_lfQ)
+- 代码实践
+    - [CF入门](https://mp.weixin.qq.com/s/t5kMA30QJh1TPx7w4gJ2lg)
+    - [万字入门推荐](https://mp.weixin.qq.com/s/rbxtM4zBVpH6Bl1ITrW-AQ)

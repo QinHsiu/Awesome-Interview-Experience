@@ -9,3 +9,14 @@
     - [深度学习中的频率问题](https://mp.weixin.qq.com/s/au84l4lBdaYCcqrb9iE5UQ)
     - [Transformer](https://mp.weixin.qq.com/s/FE5_kRvMhfJLWbyOSLxJwA)
       
+- 代码实践
+    - [23个机器学习项目](https://mp.weixin.qq.com/s/jPsMWCYFH-djGKClfzffdw)
+    - [SVM算法](https://mp.weixin.qq.com/s/JmQ3mcPztmtUHGoPChKrug)
+    - [Kaggle用户流失预测](https://mp.weixin.qq.com/s/uQwoW-iJ4f8ENfJrX1I-3A)
+    - [树模型乳腺癌预测](https://mp.weixin.qq.com/s/7tbRMtYoyPd2_dashF3GQQ)
+    - [XGBoost](https://mp.weixin.qq.com/s/eAVcbnsh9zzVnlOFz9w5Dw)
+    - [树模型的序列化](https://mp.weixin.qq.com/s/IsNAX04emYHMczDesLuE8Q)
+    - [机器学习100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+    - [Pytorch逻辑回归](https://mp.weixin.qq.com/s/R_GW2dD04TglrsU0EnHEpQ)
+
+    - [Transformer](https://mp.weixin.qq.com/s/FE5_kRvMhfJLWbyOSLxJwA)

@@ -20,6 +20,7 @@
     - [推荐系统大厂实践算法](https://mp.weixin.qq.com/s/LUozueTatcK_zPlTSghlxA)
     - [阿里无偏召回](https://mp.weixin.qq.com/s/0Cbc3aAYTeFqLDutLBXJmA)
     - [对比学习在快手排序中的应用](https://mp.weixin.qq.com/s/2GgIt38uO_qmLGskfB_lfQ)
+    - [推荐算法2023暑期实习面经](https://mp.weixin.qq.com/s/RhVKkEezgkRSnv2nggSlrg)
     - [模拟面试点评](https://mp.weixin.qq.com/s/uu-A9tbhn3EfWSMLu705WQ)
     - [模拟面试点评](https://mp.weixin.qq.com/s/q6Ip5q9j5e35tlF41plcYQ)
     - [面试](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5NTU2ODQzMg==&action=getalbum&album_id=2329316271076638720&scene=173&from_msgid=2247484769&from_itemidx=1&count=3&nolastread=1#wechat_redirect)

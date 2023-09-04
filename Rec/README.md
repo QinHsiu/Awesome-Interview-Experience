@@ -5,6 +5,10 @@
 - 其他资源
     - [Embedding序列化](https://mp.weixin.qq.com/s/LgW75OmB-jNysuttyOVr6w)
     - [22年暑期算法实习面经](https://mp.weixin.qq.com/s/KiOyLMzcJyeuD60UhNFAWw)
+    - [alibaba算法实习面经](https://mp.weixin.qq.com/s/3BdeZCrgaEbN3rot_hvUXw)
+    - [alibaba算法二面面经](https://mp.weixin.qq.com/s/6Bqh_WtFEyGuX66Lh-hPlg)  
+    - [bytedance算法面经](https://mp.weixin.qq.com/s/exIwAUG45qd7KcERiHkrnQ)
+    - [美团算法面经](https://mp.weixin.qq.com/s/3i2SsxdeJRL0NLAk1ljr_w)
     - [23届推荐算法面经](https://mp.weixin.qq.com/s/1waPEskK6ngh-14ffizKbA)
     - [校招算法基础](https://mp.weixin.qq.com/s/lNvu_0PIKyXhKTN_R1lh3g)
     - [推荐系统技术综述](https://mp.weixin.qq.com/s/DugJBzc1tmvs8ujvA3WWjw)
@@ -16,6 +20,9 @@
     - [推荐系统大厂实践算法](https://mp.weixin.qq.com/s/LUozueTatcK_zPlTSghlxA)
     - [阿里无偏召回](https://mp.weixin.qq.com/s/0Cbc3aAYTeFqLDutLBXJmA)
     - [对比学习在快手排序中的应用](https://mp.weixin.qq.com/s/2GgIt38uO_qmLGskfB_lfQ)
+    - [模拟面试点评](https://mp.weixin.qq.com/s/uu-A9tbhn3EfWSMLu705WQ)
+    - [模拟面试点评](https://mp.weixin.qq.com/s/q6Ip5q9j5e35tlF41plcYQ)
+    - [面试](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5NTU2ODQzMg==&action=getalbum&album_id=2329316271076638720&scene=173&from_msgid=2247484769&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - 代码实践
     - [CF入门](https://mp.weixin.qq.com/s/t5kMA30QJh1TPx7w4gJ2lg)
     - [万字入门推荐](https://mp.weixin.qq.com/s/rbxtM4zBVpH6Bl1ITrW-AQ)

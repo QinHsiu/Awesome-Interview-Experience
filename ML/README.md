@@ -1,3 +1,4 @@
+- [美团机器学习算法](https://mp.weixin.qq.com/s/V9r9GyhziAdgyPuaaLbZag)
 - 其他资源
     - [机器学习面试200](https://mp.weixin.qq.com/s/gfKAvmRKIDMrVNiIYhBN2A) 
     - [决策树相关面经](https://mp.weixin.qq.com/s/sJRKMXi3p72YhNKIuAPi5Q)

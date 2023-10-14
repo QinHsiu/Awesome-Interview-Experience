@@ -1,4 +1,5 @@
 - 大模型
+  - [大模型面经](https://mp.weixin.qq.com/s/J-5MqAtF3u0Lx_3hfjMEuQ) 
   - [大模型面试八股](https://mp.weixin.qq.com/s/qTXXEUeEbpR8EpIPoSAx5g)
   - [权重量化对大模型涌现能力的影响](https://mp.weixin.qq.com/s/eb465ej_ci0oNzx9VYhhhw)
   - [多智能体强化学习大模型](https://mp.weixin.qq.com/s/C_bNa42FdR5xLRcbSLXSCg)
